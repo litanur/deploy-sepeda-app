@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "sepeda-app",
-    "host": "127.0.0.1",
+    "username": "be37744de17b9b",
+    "password": "b0a16e9b",
+    "database": "heroku_63ca16a43ec7016",
+    "host": "us-cdbr-east-05.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
